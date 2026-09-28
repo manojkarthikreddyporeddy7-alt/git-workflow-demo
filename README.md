@@ -18,3 +18,29 @@ This project demonstrates a real-world Git workflow using branches, pull request
 
 \- Git rebase
 
+
+
+\## Project Details
+
+
+
+This project demonstrates a practical Git workflow.
+
+
+
+The workflow includes:
+
+
+
+\- Creating feature branches
+
+\- Making changes independently
+
+\- Committing changes
+
+\- Merging branches
+
+\- Resolving merge conflicts
+
+\- Rebasing branches
+
