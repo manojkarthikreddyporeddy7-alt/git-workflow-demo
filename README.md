@@ -2,7 +2,7 @@
 
 
 
-This project demonstrates a real-world Git workflow using branches, pull requests, merge conflicts, and rebase.
+This project demonstrates a Git workflow from the feature branch.
 
 
 
