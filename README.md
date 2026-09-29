@@ -2,11 +2,7 @@
 
 
 
-<<<<<<< HEAD
-This project demonstrates a Git workflow from the main branch.
-=======
-This project demonstrates a Git workflow from the feature branch.
->>>>>>> feature/add-project-details
+This project demonstrates a Git workflow from the main and feature branches.
 
 
 
